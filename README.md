@@ -6,4 +6,4 @@ I think some of you might find it useful so I've uploaded a folder here for you 
 
 ### To-do
 - [ ] Add description and screenshot for each app.
-- [ ] Improve flashcard app: re-align word within the bubble.
+- [x] Improve flashcard app: re-align word within the bubble.
