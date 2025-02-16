@@ -5,5 +5,5 @@ Ever since I got my Badger 2040, I couldn't stop making little apps for my daily
 I think some of you might find it useful so I've uploaded a folder here for you to load these apps into your own Badger.
 
 ### To-do
-[ ] Add description and screenshot for each app
-[ ] Improve flashcard app: re-align word within the bubble
+- [ ] Add description and screenshot for each app.
+- [ ] Improve flashcard app: re-align word within the bubble.
